@@ -28,7 +28,7 @@ menu:
 
 code_blocks:
   # Code block theme: darker / pale night / light / ocean / false
-  theme: light
+  theme: darker
   macStyle: false
   # Code block height limit (unit: px)
   height_limit: false
@@ -55,7 +55,7 @@ social:
 favicon: /img/favicon.png
 
 avatar:
-  img: https://avatars.githubusercontent.com/u/193120618?s=400&u=08a340a6e3fd28a5a524ae228b3a4944666afd57&v=4
+  img: 
   effect: false
 
 # Disable all banner images
@@ -284,7 +284,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/blockcarft114
+      link: https://github.com/blockcarft4979
   card_announcement:
     enable: true
     content: 广告招租，有意者联系QQ：2216368705
