@@ -3,7 +3,7 @@ title: "喜报！"
 date: 2026-04-06 16:00:00 +0800
 categories: [日常]
 tags: [日常]
-pin: false
+pin: true
 description: "BLOCKCARFT's BLOG打赢复活赛了"
 math: false
 mermaid: false
